@@ -1,1 +1,6 @@
-
+{
+    "name": "GooseQuack",
+    "symbol": "GQUACK",
+    "description": "just two silly gooses starting the quackvolution",
+    "image": "https://raw.githubusercontent.com/goosequacksol/goosequack/main/goosequack.png"
+}
